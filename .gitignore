@@ -47,3 +47,5 @@ coverage/
 
 # iCloud backup exclusions
 *.nosync
+.turbo
+.worktrees
